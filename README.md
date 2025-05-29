@@ -5,20 +5,6 @@
 Me chamo Leonardo Moura de Sousa, tenho 17 anos e resido no estado e cidade de São Paulo. Estou cursando o ensino médio no INSA uma escola da rede salesiana, sem curso técnico. Atualmente, estou estudando para cursar Análise e Desenvolvimento de Sistemas na FIAP e fazer uma pós em Engenharia de Software. Adoro tecnologia desde pequeno e anseio por trabalhar em uma profissão que tenha haver comigo, ocasionando minha escolha por essa área.
 
 <p align="left">
-    <a href="https://www.youtube.com/@leoo_1356">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCJzQimSOyM3KTQeoUegaxsA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@leoo_1356">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCJzQimSOyM3KTQeoUegaxsA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
     <a href="https://github.com/leoom5?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
