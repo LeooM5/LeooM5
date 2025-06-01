@@ -4,6 +4,48 @@
 
 Me chamo Leonardo Moura de Sousa, tenho 17 anos e resido no estado e cidade de São Paulo. Estou cursando o ensino médio no INSA uma escola da rede salesiana, sem curso técnico. Atualmente, estou estudando para cursar Análise e Desenvolvimento de Sistemas na FIAP e fazer uma pós em Engenharia de Software. Adoro tecnologia desde pequeno e anseio por trabalhar em uma profissão que tenha haver comigo, ocasionando minha escolha por essa área.
 
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SASS"
+    title="SASS" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img align="left" 
+    alt="GIT" 
+    title="GIT"
+    width="30px" 
+    style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
+<br><br>
+
 <p align="left">
     <a href="https://github.com/leoom5?tab=repositories&sort=stargazers">
         <img 
@@ -23,42 +65,6 @@ Me chamo Leonardo Moura de Sousa, tenho 17 anos e resido no estado e cidade de S
 
 ---
 
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<img     align="left" 
-    alt="GITHUB" 
-    title="GITHUB"
-    width="30px" 
-    style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-          
-
-<br/>
-<br/>
 
 ### 📊 Estatísticas
 
