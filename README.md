@@ -55,13 +55,6 @@ Me chamo Leonardo Moura de Sousa, tenho 18 anos e resido no estado e cidade de S
     style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
 
-<img align="left" 
-    alt="GITHUB" 
-    title="GITHUB"
-    width="30px" 
-    style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-/>
-
 <br><br>
 
 <p align="left">
