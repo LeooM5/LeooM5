@@ -10,7 +10,7 @@
 
 **`Desenvolvedor FrontEnd`**
 
-<p align="center">
+<p align="justify">
     Me chamo Leonardo Moura de Sousa, tenho 18 anos e resido no estado e cidade de São Paulo. Cursei o ensino médio regular no Instituto Nossa Senhora Auxiliadora, uma escola da rede salesiana. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na São Paulo Tech School e futuramente farei uma pós em Engenharia de Software. Adoro tecnologia desde pequeno e anseio por trabalhar em uma profissão que tenha haver comigo, graças a essa paixão quero me tornar um programador FULLSTACK.
 </p>
 
