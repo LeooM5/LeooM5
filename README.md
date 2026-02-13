@@ -90,7 +90,7 @@ Me chamo Leonardo Moura de Sousa, tenho 18 anos e resido no estado e cidade de S
     alt="GitHub Stats" 
     height="180" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=leoom5&show_icons=true&theme=cobalt&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeooM5&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" 
   />
 
   <br/>
