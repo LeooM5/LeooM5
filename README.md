@@ -3,7 +3,7 @@
     alt="SPTECH"
     title="SPTECH" 
     width="1920px"
-    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoMacsaABb-WnSiDLIu9X6AlrD3PAY6RFGLA&s" 
+    src="https://github.com/fernandacaramico/fernandacaramico/raw/main/capa.png" 
 />
 
 # 👨‍💻 Leonardo Moura
