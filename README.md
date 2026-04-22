@@ -80,11 +80,14 @@
 
 
 ### 📊 Estatísticas
-
+<img 
+      alt="GitHub Stats" 
+      height="180" 
+      src="https://github-readme-stats.vercel.app/api?username=leoom5&show_icons=true&theme=radical" 
+  />
   <br/>
 <img 
       alt="GitHub Stats" 
       height="180" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoom5&theme=cobalt&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
