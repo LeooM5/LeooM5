@@ -89,7 +89,7 @@
 <img 
       alt="GitHub Stats" 
       style="width: 25em; height: 10em;"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoom5&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoom5&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   /> 
 </div>
 
