@@ -83,12 +83,12 @@
 <div style="display: flex;">
     <img 
       alt="GitHub Stats" 
-      style="width: 7em"
+      style="width: 17em"
       src="https://github-readme-stats.vercel.app/api?username=leoom5&show_icons=true&theme=radical" 
   />
 <img 
       alt="GitHub Stats" 
-      style="width: 7em"
+      style="width: 17em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoom5&theme=cobalt&layout=compact&custom_title=Tecnologias&langs_count=9" 
   /> 
 </div>
